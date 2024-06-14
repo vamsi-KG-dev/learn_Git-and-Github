@@ -16,8 +16,6 @@ This repository contains detailed information and examples of various Git and Gi
 - [Branching and Merging](#branching-and-merging)
   - [Creating and Switching Branches](#creating-and-switching-branches)
   - [Merging Branches](#merging-branches)
-- [Collaboration with GitHub](#collaboration-with-github)
-  - [Forking a Repository](#forking-a-repository)
   - [Creating a Pull Request](#creating-a-pull-request)
 - [Additional Resources](#additional-resources)
 
