@@ -1,4 +1,4 @@
-# Git and GitHub Commands
+# Git and GitHub 
 
 This repository contains detailed information and examples of various Git and GitHub commands. It's designed to help both beginners and experienced developers understand and use version control effectively.
 
