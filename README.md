@@ -28,6 +28,7 @@ Git is a powerful version control system that helps developers manage changes to
 ### Installing Git
 
 To install Git, visit the [official Git website](https://git-scm.com/download) and download the appropriate version for your operating system.
+To install GitHub, visit the [official Git website](https://desktop.github.com/) and download the appropriate version for your operating system.
 
 ### Basic Git Commands
 
