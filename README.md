@@ -2,22 +2,6 @@
 
 This repository contains detailed information and examples of various Git and GitHub commands. It's designed to help both beginners and experienced developers understand and use version control effectively.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started with Git](#getting-started-with-git)
-  - [Installing Git](#installing-git)
-  - [Basic Git Commands](#basic-git-commands)
-- [Git Configuration](#git-configuration)
-  - [Setting Up User Information](#setting-up-user-information)
-- [Working with Repositories](#working-with-repositories)
-  - [Creating a Repository](#creating-a-repository)
-  - [Cloning a Repository](#cloning-a-repository)
-- [Branching and Merging](#branching-and-merging)
-  - [Creating and Switching Branches](#creating-and-switching-branches)
-  - [Merging Branches](#merging-branches)
-  - [Creating a Pull Request](#creating-a-pull-request)
-- [Additional Resources](#additional-resources)
 
 ## Introduction
 
